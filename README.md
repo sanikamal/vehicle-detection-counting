@@ -66,13 +66,13 @@ If you would like to contribute to this project, please read the [CONTRIBUTING.m
 
 ## Authors
 
-* **Sani Kamal** - *Initial work* - [sanikamal](https://github.com/sanikamal)
+* **Sani Kamal** - [sanikamal](https://github.com/sanikamal)
 
 See also the list of [contributors](https://github.com/sanikamal/vehicle-detection-counting/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
