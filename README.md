@@ -1,6 +1,6 @@
 # Vehicle Detection and Counting
 
-![screenshot](./screenshot/1.png)
+![screenshot](https://github.com/sanikamal/vehicle-detection-counting/blob/main/screenshot/1.png)
 
 This project uses `Flask` and `OpenCV` with Haar Cascades to detect and count vehicles in video streams and images.
 
